@@ -1,0 +1,23 @@
+body{
+    /* position: relative; */
+}
+
+.visual{
+    border: 1px solid black;
+    width: 100%;
+    min-height: 500px;
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+    justify-content: center;
+    position: relative;
+}
+
+.bar{
+    width: 30px;
+    height: 60px;
+    border: 1px solid black;
+    margin: 0 5px;
+    position: relative;
+    /* top: 100px; */
+}
